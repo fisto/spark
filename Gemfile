@@ -56,6 +56,9 @@ gem 'simple_form'
 # Use FactoryGirl
 gem 'factory_girl_rails'
 
+# Use device
+gem 'devise'
+
 group :development, :test do
   # Use RSpec for unit test
   gem 'rspec-rails', '~> 3.0.0.beta'
